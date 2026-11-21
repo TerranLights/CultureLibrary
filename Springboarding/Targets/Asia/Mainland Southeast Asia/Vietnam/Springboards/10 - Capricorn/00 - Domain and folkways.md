@@ -54,7 +54,7 @@ English keywords: Vietnam authority, power distance Vietnam, Vietnamese village 
 - **Hoa:** congregation and clan associations in Chợ Lớn and elsewhere.
 - **Catholics, Cao Đài, Hòa Hảo, Highland Protestants:** religious hierarchies that sit beside the state's.
 - **Generations:** war-era cohorts against those born after Đổi Mới (1986).
-- **Overseas Vietnamese** (California, France, Australia, Germany, Czech Republic): comparison only.
+- **Overseas Vietnamese** (California, France, Australia, Germany, Czech Republic): comparison only; who holds authority in community associations outside the state's reach.
 
 ## 4. Flags
 - **Data:** rich for the Kinh majority and the state; mixed for the northern uplands; thin for the Highlands and Cham outside ethnographies.

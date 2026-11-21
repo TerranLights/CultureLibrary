@@ -18,7 +18,7 @@ STATUS: done 2026-11-21, not verified
 | Shanghainese | 戆大 | a fool, a mark | the gullible pole |
 | Wu, older Shanghai | 拆白党 | Republican-era swindlers | *check* |
 | Wu, Jiangnan | 朝奉 | pawnshop appraiser | often Huizhou men |
-| Classical | 良知 liángzhī | innate moral knowing | Wang Yangming |
+| Classical | 良知 liángzhī | innate moral knowing | Wang Yangming (of Yuyao); the inborn faculty that tells right from wrong |
 | Classical | 不时不食 | eat nothing out of season | Suzhou food discernment |
 
 English keywords: connoisseurship Ming Jiangnan, art forgery Suzhou, tea grading Hangzhou, Shanghai marriage market, scams China, rumor panic Qing.

@@ -1,4 +1,4 @@
-STATUS: in progress
+STATUS: done 2026-11-21, not verified
 
 # Philippines: Detachment (Aquarius): springboard
 
@@ -52,8 +52,8 @@ English keywords: pakikiramdam; bahala na fatalism; emotional display Filipino; 
 - **Tagalog and Visayan wakes against Cordillera death rites:** different limits on showing grief.
 - **Men and women:** the "men don't cry" norm, to be tested by region and class.
 - **Call-center agents, nurses and seafarers:** composure as a job requirement.
-- **Maranao and Tausug communities:** patience as a religious virtue beside honor and quick offense.
-- **Chinese Filipino families:** Buddhist teaching on letting go beside business reserve.
+- **Maranao and Tausug communities:** patience as a religious virtue beside codes of honor, as each community describes them.
+- **Chinese Filipino families:** Buddhist teaching on letting go, and whether commerce asks for a different reserve (a question).
 - **Lumad peoples:** customs of not interfering, to be read in their own terms rather than as coldness.
 - **Contemplative communities (Benedictines of Bukidnon, Carmelites, Banahaw groups):** chosen withdrawal.
 - **Children of overseas workers:** distance inside the family as an ordinary condition.

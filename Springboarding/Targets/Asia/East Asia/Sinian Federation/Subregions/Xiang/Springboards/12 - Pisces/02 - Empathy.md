@@ -48,7 +48,7 @@ English keywords: Nüshu sworn sisterhood, Tujia bridal laments, perspective-tak
 - Changsha youth and urban professionals: therapy vocabulary (共情, 情商) beside older idioms.
 - Doctors and nurses in Changsha's large hospitals, and the families who clash with them.
 - Gan-speaking Liuyang and Pingjiang, and the Hakka hill towns: whether everyday reading of others differs across dialect lines.
-- Hunanese communities elsewhere: comparison only.
+- Jiangyong and Xiangxi women married out of the province: comparison only, for whether their channels of shared feeling survive the move.
 
 ## 4. Flags
 - **Data:** rich for Nüshu and minority song; mixed for psychology studies (many student samples); thin for everyday empathy outside schools and hospitals.

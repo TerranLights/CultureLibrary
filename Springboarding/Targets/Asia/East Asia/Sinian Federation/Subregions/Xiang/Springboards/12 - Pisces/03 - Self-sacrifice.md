@@ -50,7 +50,7 @@ English keywords: Qu Yuan Miluo, Tan Sitong 1898, Xiang Army shrines, Hengyang 1
 - Dongting Lake counties (Huarong, Yuanjiang, Xiangyin): flood labor and dike sacrifice.
 - Migrant-sending Shaoyang, Loudi and Yongzhou: parents gone for years, seen from the children's side.
 - Women in every region: who carried the gazetteer honor and the household's self-denial.
-- Hunanese communities elsewhere: comparison only.
+- Hunanese parents working on the coast: comparison only, for how their own sacrifice is told from far away.
 
 ## 4. Flags
 - **Data:** rich for state and literary martyrdom; mixed for war memory; thin for household sacrifice.

@@ -1,4 +1,4 @@
-STATUS: in progress
+STATUS: done 2026-11-21, not verified
 
 # Vietnam: Domain and folkways (Aquarius): springboard
 
@@ -53,7 +53,7 @@ English keywords: Vietnamese village community; communal house (đình) Vietnam;
 - **Hanoi and Ho Chi Minh City:** collective housing blocks, alleys and new estates as gathering settings.
 - **Hoa:** compare congregations of each dialect group.
 - **Cham:** Ahier (Balamon) and Awal (Bani) villages in Ninh Thuận and Bình Thuận; Muslim Cham of An Giang.
-- **Khmer Krom:** temple-centered hamlets in Sóc Trăng, Trà Vinh and An Giang.
+- **Khmer Krom:** compare hamlets and their temple committees in Sóc Trăng, Trà Vinh and An Giang.
 - **Central Highlands peoples:** Ê Đê, Jarai, Bahnar, Xơ Đăng, Mnông, Cơ Ho; compare each village house and elder.
 - **Northern uplands:** Tày, Nùng, Thái, Mường, Hmong, Dao; compare valley and highland village forms.
 - **Religious communities:** Catholic parish villages (Phát Diệm, Bùi Chu, the 1954 migrants' parishes in Đồng Nai), Cao Đài (Tây Ninh), Hòa Hảo (An Giang).

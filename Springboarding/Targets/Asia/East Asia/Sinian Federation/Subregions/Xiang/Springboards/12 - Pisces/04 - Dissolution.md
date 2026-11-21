@@ -52,7 +52,7 @@ English keywords: Chan no-self Hunan monasteries, Wang Fuzhi qi dispersal, Tujia
 - Changsha's young adults: club, fandom and online crowds as modern merging.
 - Rural elders of Shaoyang and Loudi with children away: dementia met by kin or by no one.
 - Dong of Tongdao and Yao of Jianghua: collective song and assimilation pressures.
-- Hunanese communities elsewhere: comparison only.
+- Children of Hunanese migrants raised in other provinces: comparison only, for dialect and identity fading across one generation.
 
 ## 4. Flags
 - **Data:** rich for Chan and Neo-Confucian texts and heritage dances; mixed for language shift; thin for lived self-loss outside ritual and nightlife.

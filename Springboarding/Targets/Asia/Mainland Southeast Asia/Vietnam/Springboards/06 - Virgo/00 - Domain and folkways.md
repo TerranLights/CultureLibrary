@@ -56,7 +56,7 @@ English keywords: Vietnam work culture; rice village labor; daily routine; house
 - **Khmer Krom:** a village round set by the pagoda.
 - **Hoa:** trade guilds and Chợ Lớn shops.
 - **Catholic parishes (Phát Diệm, Bùi Chu), Cao Đài, Hòa Hảo:** religious rules of work and rest.
-- **Overseas Vietnamese:** comparison only.
+- **Overseas Vietnamese:** comparison only; how niche trades abroad (nail salons, restaurants, market stalls) frame work and service.
 
 ## 4. Flags
 - **Data:** rich for the Kinh and for labor statistics; mixed for the Khmer Krom and Hoa; thin and mostly outsider-written for many upland peoples.

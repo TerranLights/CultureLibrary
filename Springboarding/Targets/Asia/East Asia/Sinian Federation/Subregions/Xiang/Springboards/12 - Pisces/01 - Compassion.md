@@ -49,7 +49,7 @@ English keywords: Hunan charity history, Changsha benevolent halls, Xiangya medi
 - Hui communities of Changde and Shaoyang: alms and mosque-based help on their own terms.
 - Tujia and Miao villages of Xiangxi, Dong villages of Tongdao and Xinhuang, Yao of Jianghua: collective help at funerals, fires and building.
 - Migrant-sending counties (Shaoyang, Loudi, Yongzhou): whether compassion travels by phone and remittance.
-- Hunanese communities elsewhere: comparison only.
+- Hunanese migrant workers in Guangdong: comparison only, for how pity and help reach them away from kin.
 
 ## 4. Flags
 - **Data:** mixed; charity history and disaster news are rich, provincial numbers on everyday giving are thin.

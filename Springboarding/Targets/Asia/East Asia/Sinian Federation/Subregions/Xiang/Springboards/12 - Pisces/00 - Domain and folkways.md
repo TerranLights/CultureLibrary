@@ -52,7 +52,7 @@ English keywords: Hunan folk religion, Meishan ritual masters, Xiangxi witchcraf
 - Dongting Lake towns (Yueyang, Yiyang, Changde): water spirits and flood memory.
 - Waxiang speakers of Yuanling and Luxi; Hui and Uyghur of Taoyuan; Bai of Sangzhi: small groups, own sacred boundaries.
 - Gan east (Liuyang, Pingjiang) and Hakka south (Rucheng, Guidong): dialect borders that may track ritual ones.
-- Hunanese communities elsewhere: comparison only.
+- Hunanese migrants in the Pearl River Delta cities: comparison only, to see which rites for the unseen travel with them.
 
 ## 4. Flags
 - **Data:** rich for classical texts, archaeology and Xiangxi ethnography; mixed for central Hunan ritual; thin for province-level numbers.

@@ -54,7 +54,7 @@ English keywords: Vietnam festival culture; Vietnamese leisure; folk games Vietn
 - **Northern uplands (Thái, Hmong, Tày-Nùng, Mường, Dao, Hà Nhì):** New Year games, courtship gatherings.
 - **Hoa:** lion dance, clan-hall festivals.
 - **Religious communities and generations:** Catholics, Cao Đài, Hòa Hảo, Đạo Mẫu; pre-1975 South, war generation, Gen Z.
-- **Overseas Vietnamese:** comparison only.
+- **Overseas Vietnamese:** comparison only; which performance forms, contests and arts are kept up or reinvented abroad.
 
 ## 4. Flags
 - **Data:** rich for Kinh festivals and urban leisure; mixed for minorities (mostly Vietnamese-language state ethnography); thin on private pleasure outside press and fiction.
