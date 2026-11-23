@@ -16,6 +16,7 @@ CHANGE (author, 2026-11-20): this week's ULM experiment finished early and well 
 | | Sun 11-22 | 1 | Taiwan, Vietnam, Germany, Philippines |
 | | Sun 11-22 | 2 | Thailand, Kazakhstan, United Kingdom, Malaysia |
 | | Sun 11-22 | 3 | South Africa, West Papua, Aceh, Patani |
+| | *Sun 11-22 RAN (job 5cdf443c): all twelve above (Yue, Hakka, Manchuria, New Zealand; Thailand, Kazakhstan, United Kingdom, Malaysia; South Africa, West Papua, Aceh, Patani), 130/130 each, 05:03-17:06, 34.21M tokens (2.85M per nation). Sunday's first-wave row (Taiwan, Vietnam, Germany, Philippines) and Indonesia ran on Saturday.* | | |
 | | Mon 11-23 | 1 | Finland, CSA, Austro-Bavaria, France |
 | | Mon 11-23 | 2 | Belarus, Appalachia, México, Bulgaria (México swapped in from Wed, author 2026-11-21) |
 | | Mon 11-23 | 3 | Lithuania, Estonia, Latvia, Hungary |
@@ -60,7 +61,11 @@ CHANGE (author, 2026-11-20): this week's ULM experiment finished early and well 
 6. The no-reuse rule also covers the "Who to compare" bullets: each gives a reason specific to that sheet's concept, and none is copied between sheets. Add this sentence to each sub-agent prompt.
 7. Do not restate the concept as what the culture believes or values (the QA scan flags that as a finding); state the concept neutrally. Add this sentence to each sub-agent prompt.
 8. Diaspora pointers stay as comparison only (author, 2026-11-18): the nation's findings apply to its diaspora.
-9. Known false positives: the scan's "sikh" pattern also matches words such as Sikhote-Alin, Lezgin *sikhil* and Ingush *sikho*; a non-South-Asian word caught this way is kept as written and noted in the report. The same holds for the Tagalog word *hindi* ("not"), which matches the scan's South Asian pattern (2026-11-21, Philippines).
+9. Known false positives: the scan's "sikh" pattern also matches words such as Sikhote-Alin, Lezgin *sikhil* and Ingush *sikho*; a non-South-Asian word caught this way is kept as written and noted in the report. The same holds for the Tagalog word *hindi* ("not"), which matches the scan's South Asian pattern (2026-11-21, Philippines). Also the siSwati/isiNdebele word *sikhwele* ("jealousy"), which matches "sikh" (2026-11-22, South Africa).
+10. No stereotypes: a "Who to compare" bullet says what to check, never what a group is like (2026-11-22: the UK and West Papua run agents had to reword 6 and 8 such bullets). Add this sentence to each sub-agent prompt. The no-reuse rule (lesson 6) covers Flags lines too, including "Languages needed" and "Held for review", from the first sign.
+11. The QA scan catches certain South Asian words, not names. After each sign, the run agent checks the sheets itself for South Asian scholars, writers, works, communities and religions by name and fixes any by a single-concept relaunch (2026-11-22: Kazakhstan, South Africa and Aceh caught names the scan missed).
+12. For smaller, less-documented culture-nations: where sources are scarce, say so and point to where to look; never pad with general material from a neighboring or parent country, and never invent a source.
+13. Spread internal regions and minorities across every sheet from the first sign, not only late (2026-11-22: Yue and Thailand nudged their sub-agents only mid-run).
 
 ## Paths
 - `<RESULTS>` = `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/CultureLibrary/Springboarding`
