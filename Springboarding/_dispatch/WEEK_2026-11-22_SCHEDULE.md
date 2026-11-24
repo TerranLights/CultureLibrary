@@ -20,6 +20,7 @@ CHANGE (author, 2026-11-20): this week's ULM experiment finished early and well 
 | | Mon 11-23 | 1 | Finland, CSA, Austro-Bavaria, France |
 | | Mon 11-23 | 2 | Belarus, Appalachia, México, Bulgaria (México swapped in from Wed, author 2026-11-21) |
 | | Mon 11-23 | 3 | Lithuania, Estonia, Latvia, Hungary |
+| | *Mon 11-23 RAN (job b68c19a3): waves 1 and 2 (Finland, CSA, Austro-Bavaria, France; Belarus, Appalachia, México, Bulgaria), 130/130 each, 05:04-15:30, 26.13M tokens (3.27M per nation). Wave 3 (Lithuania, Estonia, Latvia, Hungary) did NOT run: wave 2 was not done by 14:00; it moves to the next run day, placement for the author.* | | |
 | | Tue 11-24 | 1 | Quebec, Midwest Republic, Colorado, Romania |
 | | Tue 11-24 | 2 | Chile, Northern Ireland, Hawaii, Ukraine |
 | | Tue 11-24 | 3 | Demilitarized Zone, Prairie Federation, Meridia, Magna Lombardia |
