@@ -2,10 +2,10 @@ STATUS: SET UP 2026-11-15, NOT STARTED. Waiting for the author's "go", which dep
 
 # Cascadia Stage 1 run (waves 2–4): start here
 
-**What this run does:** DCI Stage 1, the eleven lineage profiles, for each of Cascadia's eleven units. That is "Session A" of the road to Aries in `../Targets/North America/Cascadia/PROGRESS TRACKER.md`. Claude does the research: Hermes, Qwen and Strata were retired 2026-11-15, and their output is archived and never cited. The briefs were written 2026-11-03 and updated 2026-11-10. They are unchanged except for the overrides below.
+**What this run does:** DCI Stage 1, the fifteen lineage profiles (four added by the author 2026-11-25: death and the dead, arts and craft, healing and the body, community life and associations), for each of Cascadia's eleven units. That is "Session A" of the road to Aries in `../Targets/North America/Cascadia/PROGRESS TRACKER.md`. Claude does the research: Hermes, Qwen and Strata were retired 2026-11-15, and their output is archived and never cited. The briefs were written 2026-11-03 and updated 2026-11-10. They are unchanged except for the overrides below.
 
 **Budget:**
-- About 45 web searches per unit, about 495 in all.
+- About 60 web searches per unit, about 660 in all (planning figures, raised 2026-11-25 for the four added profiles; thoroughness decides).
 - The session cap is 1,000, shared by every agent, so the whole run fits in one fresh session if nothing else there searches heavily.
 - It uses a lot of the weekly allotment; that's why the author starts it.
 

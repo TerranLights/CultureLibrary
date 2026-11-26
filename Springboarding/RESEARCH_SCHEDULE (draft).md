@@ -4,24 +4,31 @@ STATUS: DRAFT 2026-11-16, the rough first shape. The order is the author's (2026
 
 **What this covers:** the proper, complete, in-depth research (Stages 0 to 7), which begins after the springboard survey. The survey itself is scheduled in `_dispatch/SPRINGBOARD_PROGRESS.md`. Research works from the springboard sheets as starting points only (RUNBOOK, "Research from the springboard").
 
-## The order (author, 2026-11-16)
+## The order (author, 2026-11-25; replaces the order of 2026-11-16)
 1. Cascadia (the calibration nation; see Phase 0)
 2. Alaska
 3. Sonora
 4. Colorado
 5. Midwest Republic ("Midwestland")
-6. Japan
-7. Korea
-8. The post-fracture "post-Russia" countries (12, the folders in `Targets/Russia/`)
-9. The post-fracture "post-China" countries: the Sinian Federation (nine member-state sub-units), Manchuria, Mongolia, East Turkestan, Tibet (the census's successor table, Section E, lists exactly these five under "China"; Taiwan is its own row)
-10. Then stepwise, one nation at a time, through the nations represented in the **Mirny Subnet**, in its tier order, skipping those already placed above: United Kingdom, Indonesia, Australia (Primary); Philippines, New Zealand, Malaysia, Thailand, Taiwan, Vietnam, Belarus, South Africa, Kazakhstan (Significant); Northern Ireland, West Papua, Aceh, Patani, Finland (Notable). That is 17 nations.
-11. After Mirny: the next subnet and so on (to be set when Mirny is under way; the representation draft has the lists), then the nations not represented in any city.
+6. México
+7. Australia
+8. Japan
+9. Korea
+10. The Sinian Federation
+11. Indonesia
+
+Nos. 6 to 11 come from the nations marked on their own in the city-representation marking (`_dispatch/SPRINGBOARD_PROGRESS.md`, section "City representation").
+
+12. Then the culture-nations by their cities of representation, subnet by subnet: **Mirny**, **Janbogo**, **Halley**, **Palmer**, **Mawson**, then **Byrd** (the city of Byrd alone), skipping those already placed above.
+13. **Amundsen-Scott** is a special case: its population rests on fundamentally different principles from the rest of the country.
+
+**Still to settle (author, later):** the order within each subnet; where the other nations marked on their own (Germany, France, Brazil, the United Kingdom and the rest) fall; and where the post-Russia and post-China nations of the 11-16 order (the 12 in `Targets/Russia/`; Manchuria, Mongolia, East Turkestan, Tibet) now fall. Under the new order they come up in their subnets.
 
 ## Phase 0: calibrate the method with Cascadia (before anything else)
 **Goal (author):** research and results as deep, extensive and high-quality as possible. Cascadia is the pilot: eleven units, the Stage 0 scope accepted, the springboards done, the Stage 1 run set up (`_dispatch/STAGE1_RUN_PROGRESS.md`). Nothing after Cascadia starts until the method is calibrated on it and the author accepts the calibration.
 
 **Steps (proposed):**
-- **C1. Stage 1 (Session A)**, the eleven lineage profiles, run from the springboard under the research rules (follow every relevant branch, research log, `leads_parked.md`, stop at saturation). The author says "go".
+- **C1. Stage 1 (Session A)**, the fifteen lineage profiles (four added 2026-11-25), run from the springboard under the research rules (follow every relevant branch, research log, `leads_parked.md`, stop at saturation). The author says "go".
 - **C1a. Depth tests first** (proposed): before the full Stage 1 run, try the depth mechanisms below on two or three Stage 1 jobs: the dose-response test (mechanism 9) and the blind second agent (mechanism 8). Their results set the floors and the stop test for the full run.
 - **C2. Calibration audit of Stage 1** (main session, Stage 7 checklist plus the measures below). Fix the method before going on.
 - **C3. Stages 2 and 3** (Session B), then audit again.
