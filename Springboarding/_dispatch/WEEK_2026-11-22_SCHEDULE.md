@@ -25,19 +25,15 @@ CHANGE (author, 2026-11-20): this week's ULM experiment finished early and well 
 | | Tue 11-24 | 2 | Quebec, Midwest Republic, Colorado, Romania |
 | | Tue 11-24 | 3 | Chile, Northern Ireland, Hawaii, Ukraine (only on the author's word; if not run, it opens Wednesday) |
 | | Tue 11-24 | 4 | Demilitarized Zone, Prairie Federation, Meridia, Magna Lombardia (only on the author's word) |
-| | *Tue 11-24 RAN (job 2292c361): waves 1 and 2 (Lithuania, Estonia, Latvia, Hungary; Quebec, Midwest Republic, Colorado, Romania), 130/130 each, 05:04-14:30, 24.88M tokens (3.11M per nation). Waves 3 and 4 (Chile, Northern Ireland, Hawaii, Ukraine; Demilitarized Zone, Prairie Federation, Meridia, Magna Lombardia) did NOT run: only on the author's word, and wave 2 ended after 14:00; Chile, Northern Ireland, Hawaii and Ukraine (cleared on 11-21 as Tuesday's wave 2) open Wednesday as wave 1; the wave 3 nations wait for the author's word. Meter after the day: 64% (author's reading).* | | |
-| | Wed 11-25 | 1 | Araucanía-Patagonia, Argentina, Sweden, Norway |
-| | Wed 11-25 | 2 | Spain, Netherlands, Sicilia, Serbia |
-| | Wed 11-25 | 3 | Croatia |
-| **2. Janbogo** (8 left) | Wed 11-25 | 3 | Czechia, Poland, New England (New England swapped in from Mon, author 2026-11-21) |
-| | Thu 11-26 | 1 | Slovakia, Slovenia, Catalonia, Yucatán |
-| | Thu 11-26 | 2 | Basque Country |
-| **3. Halley** (5) | Thu 11-26 | 2 | Brazil, Amazonia, Uruguay |
-| | Thu 11-26 | 3 | Denmark, Iceland |
+| | *Tue 11-24 RAN (job 2292c361): waves 1 and 2 (Lithuania, Estonia, Latvia, Hungary; Quebec, Midwest Republic, Colorado, Romania), 130/130 each, 05:04-14:30, 24.88M tokens (3.11M per nation). Waves 3 and 4 (Chile, Northern Ireland, Hawaii, Ukraine; Demilitarized Zone, Prairie Federation, Meridia, Magna Lombardia) did NOT run: only on the author's word, and wave 2 ended after 14:00; Chile, Northern Ireland, Hawaii and Ukraine (cleared on 11-21 as Tuesday's wave 2) open Wednesday as wave 1; the wave 4 nations run Wednesday as wave 3, with Poland in place of the Demilitarized Zone (author, 11-24 evening). Meter after the day: 64% (author's reading).* | | |
+| | Wed 11-25 | 1 | Chile, Northern Ireland, Hawaii, Ukraine (Tuesday's wave 3, not reached on Tuesday) |
+| | Wed 11-25 | 2 | Araucanía-Patagonia, Argentina, Sweden, Norway |
+| **2. Janbogo** (8 left) | Wed 11-25 | 3 | Poland, Prairie Federation, Meridia, Magna Lombardia (author 2026-11-24 evening: Tuesday's wave 4 cleared, with Poland in place of the Demilitarized Zone) |
+| | *Wed 11-25 RAN (job 0172309c): waves 1 and 2 (Chile, Northern Ireland, Hawaii, Ukraine; Araucanía-Patagonia, Argentina, Sweden, Norway), 130/130 each, 05:05-17:24, 26.37M tokens (3.30M per nation), meter 85% after the day (author's reading). Wave 3 (Poland, Prairie Federation, Meridia, Magna Lombardia) did NOT run: it waited for the author's word, and none came before 14:00; it heads the after-Kunlun queue. Nothing runs Thu 11-26 to Sun 11-29 (author).* | | |
+| | after Kunlun | | Poland, Prairie Federation, Meridia, Magna Lombardia (Wednesday's wave 3, not run) |
+| | after Kunlun | | Spain, Netherlands, Sicilia, Serbia, Croatia, Czechia, Demilitarized Zone, New England (Wednesday's old waves 2 and 3, with the Demilitarized Zone in Poland's place; New England swapped in from Mon, author 2026-11-21) |
+| **3. Halley** (5) and the rest | Thu 11-26 to Sat 11-28 | | **nothing runs** (author, 2026-11-24 evening): no DCI and nothing that uses the allotment from the end of Wednesday until the Kunlun measurement is complete, so its readings are accurate. Thursday's row moves to after Kunlun: Slovakia, Slovenia, Catalonia, Yucatán, Basque Country; Brazil, Amazonia, Uruguay (Halley); Denmark, Iceland; Greenland (no subnet); then East Turkestan and Tibet (moved to the end, author 2026-11-20) |
 | **4. Palmer, 5. Mawson, 6. Byrd** (0) | | | none left: every nation in their cities comes earlier |
-| **No subnet** (1) | Thu 11-26 | 3 | Greenland |
-| **Moved to the end** (2; author, 2026-11-20) | Thu 11-26 / Fri 11-27 | 3 / 1 | East Turkestan (Thu) / Tibet (Fri) |
-| | Sat 11-28 | | spare |
 | | **Sun 11-29** | | **no DCI**: the author's clean ULM measurement on Kunlun, nothing else running |
 | | after Kunlun | | whatever the allotment did not allow before 11-29, in the order above |
 
